@@ -1,4 +1,4 @@
-FROM n8nio/n8n:1.99.1
+FROM n8nio/n8n:1.102.4
 
 ENV N8N_PROTOCOL=https
 ENV N8N_HOST=0.0.0.0
